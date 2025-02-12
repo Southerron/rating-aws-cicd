@@ -1,0 +1,6 @@
+com/rating/service/JsonReaderService.class
+com/rating/RatingServiceApplication.class
+com/rating/service/RatingDomainService.class
+com/rating/model/GenericDomain.class
+com/rating/controller/RatingController.class
+com/rating/model/ProfessionDomainList.class
