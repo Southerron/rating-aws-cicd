@@ -1,0 +1,13 @@
+{
+	"professions": [
+		{ "code": "1", "description": "AGENTE IMMOBILIARE"},
+		{ "code": "2", "description": "AVVOCATO"},
+		{ "code": "3", "description": "COMMERCIANTE"},
+		{ "code": "4", "description": "MEDICO" },
+		{ "code": "5", "description": "INGEGNERE" },
+		{ "code": "6", "description": "FRUTTIVENDOLO" },
+		{ "code": "7", "description": "PESCATORE" },
+		{ "code": "8", "description": "STUDENTE" },
+		{ "code": "9", "description": "INSEGNANTE" }
+	]
+}
